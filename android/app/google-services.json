@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828662072352",
+    "project_id": "flutt3r-f1re-st0r3",
+    "storage_bucket": "flutt3r-f1re-st0r3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828662072352:android:b3ad8c7762cf3e2a01e845",
+        "android_client_info": {
+          "package_name": "me.renatobogar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828662072352-kli5qg99gg06ha270l2vhmme536h0pal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABIg73oBNWO5OTJPOQQPNC8gk7GfNCR98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828662072352-kli5qg99gg06ha270l2vhmme536h0pal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
